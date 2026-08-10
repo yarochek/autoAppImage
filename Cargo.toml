@@ -1,0 +1,8 @@
+[package]
+name = "autoAppImage"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dirs = "5.0"
+walkdir = "2.4"
