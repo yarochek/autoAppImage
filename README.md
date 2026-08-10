@@ -28,7 +28,7 @@ and it cleans up the shortcut and icon it created for it. No more manual
 ## Build
 
 ```bash
-git clone https://github.com/<your_username>/autoAppImage.git
+git clone https://github.com/yarochek/autoAppImage.git
 cd autoAppImage
 cargo build --release
 ```
